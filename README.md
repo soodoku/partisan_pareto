@@ -69,3 +69,7 @@ The authors retain the complete original survey deliveries separately. The optio
 Sood, Gaurav, and Alexander G. Theodoridis. *Pareto Partisan? Relative Gains and Support for Public Policy*. Research note. Machine-readable metadata are in [CITATION.cff](CITATION.cff).
 
 The README is generated from `docs/README.md.in` and the analysis outputs.
+
+<!-- adjacent:start -->
+
+<!-- adjacent:end -->
